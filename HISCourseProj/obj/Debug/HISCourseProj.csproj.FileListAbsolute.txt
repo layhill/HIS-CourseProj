@@ -1,0 +1,10 @@
+D:\Developer\Visual Studio\HISCourseProj\HISCourseProj\bin\Debug\HISCourseProj.exe.config
+D:\Developer\Visual Studio\HISCourseProj\HISCourseProj\bin\Debug\HISCourseProj.exe
+D:\Developer\Visual Studio\HISCourseProj\HISCourseProj\bin\Debug\HISCourseProj.pdb
+D:\Developer\Visual Studio\HISCourseProj\HISCourseProj\obj\Debug\HISCourseProj.csprojResolveAssemblyReference.cache
+D:\Developer\Visual Studio\HISCourseProj\HISCourseProj\obj\Debug\HISCourseProj.Form1.resources
+D:\Developer\Visual Studio\HISCourseProj\HISCourseProj\obj\Debug\HISCourseProj.Properties.Resources.resources
+D:\Developer\Visual Studio\HISCourseProj\HISCourseProj\obj\Debug\HISCourseProj.csproj.GenerateResource.Cache
+D:\Developer\Visual Studio\HISCourseProj\HISCourseProj\obj\Debug\HISCourseProj.exe
+D:\Developer\Visual Studio\HISCourseProj\HISCourseProj\obj\Debug\HISCourseProj.pdb
+D:\Developer\Visual Studio\HISCourseProj\HISCourseProj\obj\Debug\HISCourseProj.MainForm.resources
